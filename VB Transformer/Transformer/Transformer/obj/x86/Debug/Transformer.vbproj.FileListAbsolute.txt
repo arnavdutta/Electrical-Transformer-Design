@@ -1,0 +1,10 @@
+C:\Users\Arnav\Desktop\VB Transformer\Transformer\Transformer\bin\Debug\Transformer.exe
+C:\Users\Arnav\Desktop\VB Transformer\Transformer\Transformer\bin\Debug\Transformer.pdb
+C:\Users\Arnav\Desktop\VB Transformer\Transformer\Transformer\bin\Debug\Transformer.xml
+C:\Users\Arnav\Desktop\VB Transformer\Transformer\Transformer\obj\x86\Debug\Transformer.XMR.resources
+C:\Users\Arnav\Desktop\VB Transformer\Transformer\Transformer\obj\x86\Debug\Transformer.Resources.resources
+C:\Users\Arnav\Desktop\VB Transformer\Transformer\Transformer\obj\x86\Debug\Transformer.exe
+C:\Users\Arnav\Desktop\VB Transformer\Transformer\Transformer\obj\x86\Debug\Transformer.xml
+C:\Users\Arnav\Desktop\VB Transformer\Transformer\Transformer\obj\x86\Debug\Transformer.pdb
+C:\Users\Arnav\Desktop\VB Transformer\Transformer\Transformer\obj\x86\Debug\Transformer.vbprojResolveAssemblyReference.cache
+C:\Users\Arnav\Desktop\VB Transformer\Transformer\Transformer\obj\x86\Debug\Transformer.vbproj.GenerateResource.Cache
