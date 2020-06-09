@@ -118,43 +118,46 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="1-step" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1-step.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="2-step" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\2-step.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="3-step" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\3-step.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="4-step" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\4-step.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="CoreW" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CoreW.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="EI-type" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\EI-type.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LL-type" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LL-type.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LL-type-S" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LL-type-S.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Mitred" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Mitred.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rect" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rect.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ShellW" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ShellW.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="UI-type" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\UI-type.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="EI-type" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EI-type.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3-step" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3-step.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1-step" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1-step.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LL-type" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LL-type.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2-step" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2-step.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mitred" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mitred.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="UT-type" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\UT-type.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4-step" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4-step.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LL-type-S" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LL-type-S.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rect" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rect.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UI-type" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\UI-type.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="info" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\info.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

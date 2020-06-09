@@ -1,0 +1,15 @@
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\bin\x64\Debug\Transformer.exe.manifest
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\bin\x64\Debug\Transformer.application
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\bin\x64\Debug\Transformer.exe
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\bin\x64\Debug\Transformer.pdb
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\bin\x64\Debug\Transformer.xml
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\obj\x64\Debug\Transformer.vbprojAssemblyReference.cache
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\obj\x64\Debug\Transformer.Form1.resources
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\obj\x64\Debug\Transformer.Resources.resources
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\obj\x64\Debug\Transformer.vbproj.GenerateResource.cache
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\obj\x64\Debug\Transformer.vbproj.CoreCompileInputs.cache
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\obj\x64\Debug\Transformer.exe.manifest
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\obj\x64\Debug\Transformer.application
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\obj\x64\Debug\Transformer.exe
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\obj\x64\Debug\Transformer.xml
+C:\Users\Arnav\Desktop\Electrical-Transformer-Design\VB Transformer\Transformer\Transformer\obj\x64\Debug\Transformer.pdb
